@@ -1,0 +1,1 @@
+delete from tbl_publicacao where id < 50;
